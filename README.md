@@ -1,2 +1,6 @@
-# Airflow-Data-Pipeline-Orchestration
-Automated ETL workflow orchestration using Apache Airflow to schedule and monitor data pipelines across cloud platforms.
+# Airflow Data Pipeline Orchestration
+
+Example project demonstrating automated ETL orchestration using Apache Airflow.
+
+## Tech Stack
+Apache Airflow, Python
